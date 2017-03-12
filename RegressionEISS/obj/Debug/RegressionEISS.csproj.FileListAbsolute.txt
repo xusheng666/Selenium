@@ -1,0 +1,15 @@
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\obj\Debug\RegressionEISS.csprojResolveAssemblyReference.cache
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\obj\Debug\RegressionEISS.dll
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\obj\Debug\RegressionEISS.pdb
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\bin\Debug\geckodriver.exe
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\bin\Debug\RegressionEISS.dll.config
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\bin\Debug\RegressionEISS.dll
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\bin\Debug\RegressionEISS.pdb
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\bin\Debug\nunit.framework.dll
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\bin\Debug\Selenium.WebDriverBackedSelenium.dll
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\bin\Debug\WebDriver.dll
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\bin\Debug\WebDriver.Support.dll
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\bin\Debug\nunit.framework.xml
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\bin\Debug\Selenium.WebDriverBackedSelenium.xml
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\bin\Debug\WebDriver.xml
+C:\cloudasp\SeleniumNet\SeleniumNetRegression\RegressionEISS\bin\Debug\WebDriver.Support.xml
